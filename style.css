@@ -89,11 +89,17 @@ p {
   body {
     text-align: center;
   }
+
   h1 {
     font-size: 48px;
   }
 
   h2 {
     font-size: 30px;
+  }
+
+  .primary-link-block {
+    display: block;
+    margin: 0 10px;
   }
 }
